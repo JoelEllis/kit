@@ -1,5 +1,11 @@
 # svelte-migrate
 
+## 1.0.0-next.3
+
+### Patch Changes
+
+- handle more import cases ([#5828](https://github.com/sveltejs/kit/pull/5828))
+
 ## 1.0.0-next.2
 
 ### Patch Changes
